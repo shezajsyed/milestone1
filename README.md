@@ -6,7 +6,7 @@ blending, and game feel.
 
 ## Showcase
 - Video: https://drive.google.com/file/d/1lejf5UWYw5rFNi1aHRzwxmjI6V3nKUcD/view?usp=sharing
-- Download build: [LINK TO RELEASE OR ZIP]
+- Download build: https://github.com/shezajsyed/milestone1/releases/tag/v1.0
 
 ## Controls
 
